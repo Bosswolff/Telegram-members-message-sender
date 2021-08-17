@@ -26,11 +26,17 @@
 # Install
 
 1.git clone https://github.com/Offline4ll4/Telegram-members-message-sender
+
 2.Extract the file
+
 3.Install the Python
+
 4.Put your phone numbers in <phone.csv>
+
 5.Run the tool in cmd : python main.py
+
 6.Put your message and groups in <message.txt> , Group Address in GUI
+
 7.Login , Scrape , Start
 
 # Demo
