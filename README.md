@@ -40,7 +40,7 @@
 7.Login , Scrape , Start
 
 # Demo
-🔰 Video : 
+🔰 Video : https://www.youtube.com/watch?v=gXHCDDrobXk
 
 # Details
 
